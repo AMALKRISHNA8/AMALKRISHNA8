@@ -2,27 +2,22 @@
 
 ### 🎓 B.Tech Computer Science & Engineering — Cyber Security
 
-<p align="left">
-  <a href="https://github.com/AMALKRISHNA8">
-    <img src="https://img.shields.io/github/followers/AMALKRISHNA8?label=Followers&style=flat-square" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AMALKRISHNA8&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
+I'm a Computer Science & Engineering student specializing in **Cyber Security**, interested in building secure systems and understanding how modern technologies can be protected against cyber threats.
+
+I'm currently focused on improving my practical skills through **programming, cybersecurity labs, networking, and real-world projects**.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science & Engineering student specializing in Cyber Security**, interested in understanding how systems, networks, and applications can be secured against modern threats.
-
-I'm currently focused on improving my practical skills through **projects, cybersecurity labs, programming, and continuous learning**.
-
 - 🎓 B.Tech CSE — Cyber Security
 - 🔐 Interested in Cyber Security & Ethical Hacking
-- 🌐 Interested in Networking and System Security
-- 💻 Learning through hands-on projects
-- 🚀 Building my skills one project at a time
-- 📚 Always learning something new
+- 🌐 Interested in Networking & System Security
+- 🐍 Learning and developing with Python
+- 🐧 Exploring Linux and security tools
+- 🛠️ Building practical cybersecurity projects
+- 📚 Continuously learning new technologies
+- 🚀 Working towards becoming a skilled Cyber Security professional
 
 ---
 
@@ -36,34 +31,27 @@ I'm currently focused on improving my practical skills through **projects, cyber
 - 🧪 Security Testing
 - 🕵️ Digital Forensics
 - 🤖 AI in Cyber Security
+- 🔒 Secure Application Development
 
 ---
 
 ## 💻 Technical Skills
 
-### Programming Languages
+### Programming
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,js,bash" />
-</p>
+`Python` `C` `Java` `HTML` `CSS`
 
-### Cyber Security & Networking
+### Cyber Security
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali" />
-</p>
+`Nmap` `Wireshark` `Burp Suite` `Metasploit` `FTK Imager` `Autopsy`
 
-**Security:**  
-`Nmap` • `Wireshark` • `Burp Suite` • `Metasploit` • `FTK Imager` • `Autopsy`
+### Networking
 
-**Networking:**  
-`TCP/IP` • `DNS` • `HTTP/HTTPS` • `OSI Model` • `Firewalls` • `IDS/IPS`
+`TCP/IP` `DNS` `HTTP/HTTPS` `OSI Model` `Firewalls` `IDS/IPS`
 
-### Development & Tools
+### Technologies & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,docker" />
-</p>
+`Git` `GitHub` `Linux` `VS Code`
 
 ---
 
@@ -71,10 +59,10 @@ I'm currently focused on improving my practical skills through **projects, cyber
 
 ### 🔐 Post-Quantum Secure Communication System
 
-A secure communication system exploring **post-quantum cryptography** with modern encryption techniques.
+A secure communication system exploring **post-quantum cryptography** and modern encryption techniques.
 
-**Technologies:**
-`CRYSTALS-Kyber` • `AES-256-GCM` • `Python` • `Cryptography`
+**Technologies:**  
+`CRYSTALS-Kyber` `AES-256-GCM` `Python` `Cryptography`
 
 ---
 
@@ -82,52 +70,77 @@ A secure communication system exploring **post-quantum cryptography** with moder
 
 Exploring the use of **Artificial Intelligence for threat detection and automated security response**.
 
-**Focus:**
-`Threat Detection` • `Machine Learning` • `Endpoint Security` • `Automated Response`
+**Focus:**  
+`Threat Detection` `Machine Learning` `Endpoint Security` `Automated Response`
 
 ---
 
-### 🛡️ Cyber Security Projects
+### 🛡️ Cyber Security Labs & Experiments
 
-I'm continuously working on practical projects related to:
+A collection of practical cybersecurity exercises and experiments covering:
 
 - Network Security
-- Vulnerability Detection
+- Linux Security
+- Vulnerability Assessment
 - Cryptography
 - Digital Forensics
-- Intrusion Detection
-- Secure Applications
+- Network Analysis
+- Security Tools
 
-> 🚧 More projects will be added as I build and publish them.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMALKRISHNA8&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMALKRISHNA8&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+> 🚧 More projects and practical work will be added as I continue learning.
 
 ---
 
-## 📈 Contribution
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMALKRISHNA8&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Current Goals
+## 📚 Currently Learning
 
 ```text
 Cyber Security
-     │
-     ├── Networking
-     ├── Linux
-     ├── Ethical Hacking
-     ├── Digital Forensics
-     ├── Python
-     ├── Security Tools
-     └── Real-World Projects
+      │
+      ├── Python
+      ├── Networking
+      ├── Linux
+      ├── Ethical Hacking
+      ├── Digital Forensics
+      ├── Cryptography
+      ├── Security Tools
+      └── Real-World Projects
+```
+
+---
+
+## 🎯 2026 Goals
+
+- Build and publish real-world cybersecurity projects
+- Improve Python programming skills
+- Strengthen networking and Linux knowledge
+- Practice cybersecurity labs regularly
+- Contribute to open-source projects
+- Build a strong GitHub portfolio
+- Gain practical industry experience
+- Continue learning and improving every day
+
+---
+
+## 📊 GitHub Activity
+
+I use GitHub to document my learning, projects, experiments, and progress in Cyber Security and Software Development.
+
+**My goal is simple:**
+
+> Learn → Build → Document → Improve → Repeat
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: **[Add your LinkedIn profile here]**
+- 📧 Email: **[Add your professional email here]**
+- 💻 GitHub: **[AMALKRISHNA8](https://github.com/AMALKRISHNA8)**
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+I'm always learning, building, and exploring new technologies in **Cyber Security**.
+
+**Let's build something secure. 🔐**
