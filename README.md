@@ -1,80 +1,224 @@
-# Amal Krishna
+<div align="center">
 
-**B.Tech Computer Science & Engineering — Cyber Security**
+# 👋 Hi, I'm Amal Krishna
 
-Cyber security student focused on secure systems, applied cryptography, and network defense. I build small, practical projects to learn tools and concepts hands-on, and document the process on GitHub.
+### 🛡️ Cyber Security Enthusiast | 💻 CSE Student | 🐍 Python Learner
 
-📍 Learn → Build → Document → Improve → Repeat
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;Python+Learner;Network+Security+Explorer;Building+Security+Projects" alt="Typing SVG" />
+</p>
 
----
-
-## About
-
-- 🎓 B.Tech CSE (Cyber Security specialization)
-- 🔐 Interests: vulnerability assessment, network security, digital forensics, applied cryptography
-- 🐍 Primary language: Python, with C and Java
-- 🐧 Comfortable in Linux environments and common security tooling
-- 📚 Currently deepening skills in ethical hacking and AI-assisted threat detection
+</div>
 
 ---
 
-## Technical Skills
+## 👨‍💻 About Me
 
-| Category | Tools |
-|---|---|
-| **Programming** | Python, C, Java, HTML, CSS |
-| **Security Tools** | Nmap, Wireshark, Burp Suite, Metasploit, FTK Imager, Autopsy |
-| **Networking** | TCP/IP, DNS, HTTP/HTTPS, OSI Model, Firewalls, IDS/IPS |
-| **Platforms** | Git, GitHub, Linux, VS Code |
+Hello! I'm **Amal Krishna**, a Computer Science & Engineering student specializing in **Cyber Security**.
+
+I'm interested in understanding how systems, networks, and applications work — and how they can be protected against modern security threats.
+
+I learn best by **building projects, experimenting with security tools, and solving practical problems**.
+
+* 🎓 B.Tech Computer Science & Engineering — Cyber Security
+* 🔐 Interested in Cyber Security & Ethical Hacking
+* 🌐 Exploring Network & System Security
+* 🐍 Learning Python for cybersecurity
+* 🐧 Exploring Linux
+* 🔎 Practicing security tools and labs
+* 🚀 Building practical projects
+* 📚 Continuously learning
 
 ---
 
-## Featured Projects
+## 🛡️ Cyber Security
 
-### 🔐 Post-Quantum Secure Communication System
-A secure communication system exploring post-quantum cryptography and modern encryption.
-`CRYSTALS-Kyber` · `AES-256-GCM` · `Python` · `Cryptography`
+<p>
+<img src="https://img.shields.io/badge/Network%20Security-0A66C2?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-8B0000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cryptography-6A0DAD?style=for-the-badge">
+<img src="https://img.shields.io/badge/Digital%20Forensics-444444?style=for-the-badge">
+<img src="https://img.shields.io/badge/IDS%2FIPS-FF6F00?style=for-the-badge">
+</p>
+
+### 🔎 Areas I'm Exploring
+
+* Network Security
+* Vulnerability Assessment
+* Ethical Hacking
+* Cryptography
+* Digital Forensics
+* Intrusion Detection
+* System Security
+* Secure Applications
+* AI in Cyber Security
+
+---
+
+## 💻 Languages & Technologies
+
+### Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+### Cyber Security Tools
+
+<p>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge">
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge">
+<img src="https://img.shields.io/badge/Autopsy-333333?style=for-the-badge">
+<img src="https://img.shields.io/badge/FTK%20Imager-555555?style=for-the-badge">
+</p>
+
+### Networking
+
+<p>
+<img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge">
+<img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge">
+<img src="https://img.shields.io/badge/HTTP%2FHTTPS-00897B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Firewalls-8B0000?style=for-the-badge">
+<img src="https://img.shields.io/badge/IDS%2FIPS-FF8C00?style=for-the-badge">
+</p>
+
+### Development & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Python Cybersecurity Basics
+
+A collection of beginner-friendly Python security tools and experiments.
+
+**Current projects:**
+
+* 🔑 Password Strength Checker
+* 🔐 SHA-256 File Hash Generator
+* 🚧 Caesar Cipher
+* 🚧 Log Analyzer
+* 🚧 Network Information Tool
+
+**Tech:** `Python` `Cyber Security` `Cryptography`
+
+---
+
+### 🔒 Post-Quantum Secure Communication System
+
+A security project exploring **post-quantum cryptography** combined with modern symmetric encryption.
+
+**Technologies:**
+
+`CRYSTALS-Kyber` `AES-256-GCM` `Python` `Cryptography`
+
+---
 
 ### 🤖 AI-Driven Cyber Security
-Exploring AI for threat detection and automated security response.
-`Threat Detection` · `Machine Learning` · `Endpoint Security` · `Automated Response`
 
-### 🛡️ Cyber Security Labs & Experiments
-Practical exercises covering network security, Linux security, vulnerability assessment, cryptography, digital forensics, and network analysis.
+Exploring the application of **Artificial Intelligence for threat detection and automated security response**.
 
-> More projects added as work progresses — see [pinned repos](https://github.com/AMALKRISHNA8?tab=repositories) for the latest.
+**Focus:**
 
----
-
-## GitHub Stats
-
-<!-- These are live image endpoints (github-readme-stats) — they refresh automatically on every page load, no workflow needed. -->
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AMALKRISHNA8&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMALKRISHNA8&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMALKRISHNA8&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
+`Threat Detection` `Machine Learning` `Endpoint Security` `Automated Response`
 
 ---
 
-## Recent Activity
+## 📊 GitHub Statistics
 
-<!--START_SECTION:activity-->
-<!-- This section is auto-populated by the GitHub Action in .github/workflows/update-readme.yml -->
-<!--END_SECTION:activity-->
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=AMALKRISHNA8&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 
-## Connect
+<br><br>
 
-- 💻 GitHub: [AMALKRISHNA8](https://github.com/AMALKRISHNA8)
-- 💼 LinkedIn: _add your profile URL_
-- 📧 Email: _add your professional email_
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMALKRISHNA8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+
+</div>
 
 ---
 
-<sub>Stats and recent activity above update automatically — see the workflow in this repo for how.</sub>
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AMALKRISHNA8&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Cyber Security
+      │
+      ├── 🐍 Python
+      ├── 🌐 Networking
+      ├── 🐧 Linux
+      ├── 🔐 Cryptography
+      ├── 🔎 Security Tools
+      ├── 🕵️ Digital Forensics
+      ├── 🤖 AI Security
+      └── 🚀 Real-World Projects
+```
+
+---
+
+## 🎯 2026 Goals
+
+* Build real-world cybersecurity projects
+* Improve Python programming
+* Strengthen networking fundamentals
+* Improve Linux skills
+* Practice cybersecurity labs
+* Learn more security tools
+* Contribute to open-source projects
+* Build a strong cybersecurity portfolio
+* Gain practical industry experience
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/AMALKRISHNA8">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<!-- Replace the # with your LinkedIn profile URL -->
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<!-- Replace the # with your portfolio URL -->
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Learn → Build → Document → Improve
+
+**Thanks for visiting my profile! 🔐**
+
+</div>
