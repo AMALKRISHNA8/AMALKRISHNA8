@@ -14,24 +14,20 @@
 
 ---
 
-## 👨‍💻 About Me
-
 <img align="right" alt="Cyber Security Animation" width="320" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 
-I'm **Amal Krishna**, a Computer Science & Engineering student specializing in **Cyber Security**.
+## 🧑‍💻 About Me
 
-I'm interested in understanding how **systems, networks, and applications** work — and how they can be secured against modern cyber threats.
+I'm a **Computer Science & Engineering student specializing in Cyber Security**, interested in understanding how systems, networks, and applications can be secured against modern threats.
 
-I learn through **hands-on projects, cybersecurity labs, programming, and continuous experimentation**.
+I'm currently focused on improving my practical skills through **projects, cybersecurity labs, programming, and continuous learning**.
 
 - 🎓 B.Tech CSE — Cyber Security
-- 🔐 Cyber Security & Ethical Hacking
-- 🌐 Network & System Security
-- 🐍 Python for Cybersecurity
-- 🐧 Linux & Security Tools
-- 🔎 Vulnerability Assessment
-- 🕵️ Digital Forensics
-- 🚀 Building practical projects
+- 🔐 Interested in Cyber Security & Ethical Hacking
+- 🌐 Interested in Networking and System Security
+- 💻 Learning through hands-on projects
+- 🚀 Building my skills one project at a time
+- 📚 Always learning something new
 
 <br clear="right"/>
 
@@ -39,59 +35,46 @@ I learn through **hands-on projects, cybersecurity labs, programming, and contin
 
 ## 🛡️ Cyber Security Interests
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Network%20Security-0A66C2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Ethical%20Hacking-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cryptography-6A0DAD?style=for-the-badge">
-<img src="https://img.shields.io/badge/Digital%20Forensics-444444?style=for-the-badge">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Threat%20Detection-B22222?style=for-the-badge">
-<img src="https://img.shields.io/badge/System%20Security-2F4F4F?style=for-the-badge">
-<img src="https://img.shields.io/badge/IDS%2FIPS-FF8C00?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI%20Security-6A5ACD?style=for-the-badge">
-
-</div>
+- 🔎 Vulnerability Assessment
+- 🌐 Network Security
+- 🖥️ System Security
+- 🔐 Cryptography
+- 🚨 Intrusion Detection & Prevention
+- 🧪 Security Testing
+- 🕵️ Digital Forensics
+- 🤖 AI in Cyber Security
 
 ---
 
-## 💻 Languages & Technologies
+## 💻 Technical Skills
 
-### 🐍 Programming
+### Programming Languages
 
-<div align="center">
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css">
+### Cyber Security & Networking
 
-</div>
+**Security:**
 
-### 🔐 Security & Networking
+`Nmap` • `Wireshark` • `Burp Suite` • `Metasploit` • `FTK Imager` • `Autopsy`
 
-<div align="center">
+**Networking:**
 
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge">
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge">
+`TCP/IP` • `DNS` • `HTTP/HTTPS` • `OSI Model` • `Firewalls` • `IDS/IPS`
 
-<br><br>
+### Development & Tools
 
-<img src="https://img.shields.io/badge/Autopsy-333333?style=for-the-badge">
-<img src="https://img.shields.io/badge/FTK%20Imager-555555?style=for-the-badge">
-<img src="https://img.shields.io/badge/TCP%2FIP-0A66C2?style=for-the-badge">
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-</div>
-
-### 🛠️ Development & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux">
-
-</div>
+</p>
 
 ---
 
@@ -103,17 +86,127 @@ I learn through **hands-on projects, cybersecurity labs, programming, and contin
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔐 Python Cybersecurity Basics
+### 🔐 Post-Quantum Secure Communication System
 
-A collection of beginner-friendly Python tools built while learning practical cybersecurity concepts.
+A secure communication system exploring **post-quantum cryptography** with modern encryption techniques.
 
-**Projects**
+**Technologies:**
+
+`CRYSTALS-Kyber` • `AES-256-GCM` • `Python` • `Cryptography`
+
+---
+
+### 🤖 AI-Driven Cyber Security
+
+Exploring the use of **Artificial Intelligence for threat detection and automated security response**.
+
+**Focus:**
+
+`Threat Detection` • `Machine Learning` • `Endpoint Security` • `Automated Response`
+
+---
+
+### 🛡️ Cyber Security Projects
+
+I'm continuously working on practical projects related to:
+
+- 🌐 Network Security
+- 🔎 Vulnerability Detection
+- 🔐 Cryptography
+- 🕵️ Digital Forensics
+- 🚨 Intrusion Detection
+- 🔒 Secure Applications
+
+> 🚧 More projects will be added as I build and publish them.
+
+---
+
+## 🐍 Python Cybersecurity Projects
+
+Currently building small cybersecurity tools while improving my Python skills.
+
+### 🔑 Password Strength Checker
+
+Checks password strength based on:
+
+- Password length
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
+
+**Technologies:**
+
+`Python` • `Regular Expressions`
+
+---
+
+### 🔐 File Hash Generator
+
+Generates a cryptographic hash of a file using hashing algorithms.
+
+**Technologies:**
+
+`Python` • `SHA-256` • `Hashing`
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=More+Cybersecurity+Projects+Coming+Soon...+%F0%9F%9A%A7;Learning+%E2%80%A2+Building+%E2%80%A2+Testing+%E2%80%A2+Improving" alt="Projects Animation">
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AMALKRISHNA8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMALKRISHNA8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AMALKRISHNA8&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AMALKRISHNA8&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
+
+</div>
+
+---
+
+## 🧠 Currently Learning
 
 ```text
-🔑 Password Strength Checker
-🔐 SHA-256 File Hash Generator
-🚧 Caesar Cipher
-🚧 Log Analyzer
-🚧 Network Information Tool
+                         🛡️ CYBER SECURITY
+                                │
+          ┌─────────────────────┼─────────────────────┐
+          │                     │                     │
+          ▼                     ▼                     ▼
+      🐍 Python             🌐 Networking          🐧 Linux
+          │                     │                     │
+          ▼                     ▼                     ▼
+   Security Tools          Cryptography        System Security
+          │                     │                     │
+          └─────────────────────┼─────────────────────┘
+                                │
+                                ▼
+                       🚀 Real-World Projects
