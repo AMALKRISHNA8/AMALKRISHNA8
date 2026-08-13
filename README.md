@@ -2,211 +2,177 @@
 
 # 👋 Hi, I'm **Amal Krishna**
 
-### 🛡️ Cyber Security Enthusiast | 💻 CSE Student | 🐍 Python Learner
+### 🛡️ Cyber Security Enthusiast &nbsp;•&nbsp; 💻 CSE Student &nbsp;•&nbsp; 🐍 Python Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;Python+Security+Projects+%F0%9F%90%8D;Network+Security+Explorer+%F0%9F%8C%90;Learning+%E2%80%A2+Building+%E2%80%A2+Securing+%F0%9F%9A%80" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;Network+Security+Explorer+%F0%9F%8C%90;Python+%2B+Cybersecurity+%F0%9F%90%8D;Building+Security+Projects+%F0%9F%9A%80;Always+Learning%2C+Always+Improving+%E2%9A%A1" alt="Typing Animation">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=AMALKRISHNA8&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=AMALKRISHNA8&label=PROFILE%20VIEWS&style=flat-square&color=00D9FF" alt="Profile Views">
 
 </div>
 
 ---
 
-<img align="right" alt="Cyber Security Animation" width="320" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+<table>
+<tr>
+<td width="62%" valign="top">
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering student specializing in Cyber Security**, interested in understanding how systems, networks, and applications can be secured against modern threats.
+I'm **Amal Krishna**, a Computer Science & Engineering student specializing in **Cyber Security**.
 
-I'm currently focused on improving my practical skills through **projects, cybersecurity labs, programming, and continuous learning**.
+I'm interested in understanding how systems, networks, and applications work — and how they can be protected against modern cyber threats.
 
-- 🎓 B.Tech CSE — Cyber Security
-- 🔐 Interested in Cyber Security & Ethical Hacking
-- 🌐 Interested in Networking and System Security
-- 💻 Learning through hands-on projects
-- 🚀 Building my skills one project at a time
-- 📚 Always learning something new
+I learn primarily through **building projects, experimenting with security tools, solving practical problems, and continuously improving my skills**.
 
-<br clear="right"/>
+### 🔭 Currently Working On
+
+- 🔐 Cybersecurity projects with Python
+- 🌐 Network & system security
+- 🐧 Linux and security tools
+- 🔎 Vulnerability assessment
+- 🧪 Practical security experiments
+- 🚀 Building a stronger GitHub portfolio
+
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="Cyber Security Animation">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cyber%20Security-Explorer-00D9FF?style=for-the-badge&logo=hackthebox&logoColor=white">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛡️ Cyber Security Interests
 
-- 🔎 Vulnerability Assessment
-- 🌐 Network Security
-- 🖥️ System Security
-- 🔐 Cryptography
-- 🚨 Intrusion Detection & Prevention
-- 🧪 Security Testing
-- 🕵️ Digital Forensics
-- 🤖 AI in Cyber Security
+<div align="center">
+
+| 🔎 Security | 🌐 Networking | 🔐 Cryptography | 🕵️ Forensics |
+|:---:|:---:|:---:|:---:|
+| Vulnerability Assessment | Network Security | Encryption | Digital Forensics |
+| Security Testing | TCP/IP | Secure Communication | Incident Analysis |
+| Ethical Hacking | DNS / HTTP | Post-Quantum Crypto | Evidence Analysis |
+
+</div>
 
 ---
 
 ## 💻 Technical Skills
 
-### Programming Languages
+### 🐍 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://skillicons.dev/icons?i=python,c,html,css" height="45">
 </p>
 
-### Cyber Security & Networking
-
-**Security:**
-
-`Nmap` • `Wireshark` • `Burp Suite` • `Metasploit` • `FTK Imager` • `Autopsy`
-
-**Networking:**
-
-`TCP/IP` • `DNS` • `HTTP/HTTPS` • `OSI Model` • `Firewalls` • `IDS/IPS`
-
-### Development & Tools
+### 🛡️ Security Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/Burp%20Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633">
+<img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=2596CD">
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/FTK%20Imager-0D1117?style=for-the-badge&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/Autopsy-0D1117?style=for-the-badge&logoColor=00D9FF">
+</p>
+
+### 🌐 Networking
+
+`TCP/IP` &nbsp; `DNS` &nbsp; `HTTP/HTTPS` &nbsp; `OSI Model` &nbsp; `Firewalls` &nbsp; `IDS/IPS`
+
+### 🔧 Development & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="45">
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=900&color=00FF88&center=true&vCenter=true&width=600&lines=%3E+Building+Cybersecurity+Projects...;%3E+Learning+Security+Tools...;%3E+Exploring+New+Technologies...;%3E+Improving+Every+Day+%F0%9F%9A%80" alt="Cybersecurity Animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=700&color=00FF88&center=true&vCenter=true&width=650&lines=%3E+Initializing+Security+Projects...;%3E+Learning+New+Technologies...;%3E+Testing+%26+Experimenting...;%3E+Building+Something+Better+Every+Day..." alt="Terminal Animation">
 
 </div>
 
 ---
+## 🔥 GitHub Streak
 
-## 🚀 Projects
+<div align="center">
 
-### 🔐 Post-Quantum Secure Communication System
+[![GitHub Streak](https://streak-stats.demolab.com?user=AMALKRISHNA8&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-A secure communication system exploring **post-quantum cryptography** with modern encryption techniques.
+</div>
 
-**Technologies:**
+# 🚀 Projects
+
+## 🔐 Post-Quantum Secure Communication System
+
+A secure communication system exploring **post-quantum cryptography** combined with modern encryption techniques.
+
+**Technologies**
 
 `CRYSTALS-Kyber` • `AES-256-GCM` • `Python` • `Cryptography`
 
+**Focus**
+
+🔒 Secure Communication &nbsp;•&nbsp; 🔐 Post-Quantum Cryptography &nbsp;•&nbsp; Data Protection
+
 ---
 
-### 🤖 AI-Driven Cyber Security
+## 🐍 Python Cybersecurity Basics
 
-Exploring the use of **Artificial Intelligence for threat detection and automated security response**.
+A growing collection of practical Python security utilities built while developing cybersecurity fundamentals.
 
-**Focus:**
+### 🔑 Password Strength Checker
+
+Evaluates passwords using multiple strength criteria and provides a basic security assessment.
+
+### 🔐 File Hash Generator
+
+Generates a **SHA-256 cryptographic hash** for files to help verify file integrity.
+
+**Technologies**
+
+`Python` • `SHA-256` • `Hashing` • `Security`
+
+> 🚧 More cybersecurity utilities are currently being developed.
+
+---
+
+## 🤖 AI-Driven Cyber Security
+
+Exploring how **Artificial Intelligence and Machine Learning** can support modern security operations.
+
+**Focus**
 
 `Threat Detection` • `Machine Learning` • `Endpoint Security` • `Automated Response`
 
 ---
 
-### 🛡️ Cyber Security Projects
+## 🛡️ More Cyber Security Projects
 
-I'm continuously working on practical projects related to:
-
-- 🌐 Network Security
-- 🔎 Vulnerability Detection
-- 🔐 Cryptography
-- 🕵️ Digital Forensics
-- 🚨 Intrusion Detection
-- 🔒 Secure Applications
-
-> 🚧 More projects will be added as I build and publish them.
-
----
-
-## 🐍 Python Cybersecurity Projects
-
-Currently building small cybersecurity tools while improving my Python skills.
-
-### 🔑 Password Strength Checker
-
-Checks password strength based on:
-
-- Password length
-- Uppercase letters
-- Lowercase letters
-- Numbers
-- Special characters
-
-**Technologies:**
-
-`Python` • `Regular Expressions`
-
----
-
-### 🔐 File Hash Generator
-
-Generates a cryptographic hash of a file using hashing algorithms.
-
-**Technologies:**
-
-`Python` • `SHA-256` • `Hashing`
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=More+Cybersecurity+Projects+Coming+Soon...+%F0%9F%9A%A7;Learning+%E2%80%A2+Building+%E2%80%A2+Testing+%E2%80%A2+Improving" alt="Projects Animation">
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AMALKRISHNA8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMALKRISHNA8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AMALKRISHNA8&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AMALKRISHNA8&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
-
-</div>
-
----
-
-## 🧠 Currently Learning
+Currently exploring:
 
 ```text
-                         🛡️ CYBER SECURITY
-                                │
-          ┌─────────────────────┼─────────────────────┐
-          │                     │                     │
-          ▼                     ▼                     ▼
-      🐍 Python             🌐 Networking          🐧 Linux
-          │                     │                     │
-          ▼                     ▼                     ▼
-   Security Tools          Cryptography        System Security
-          │                     │                     │
-          └─────────────────────┼─────────────────────┘
-                                │
-                                ▼
-                       🚀 Real-World Projects
+Network Security
+      ↓
+Vulnerability Detection
+      ↓
+Cryptography
+      ↓
+Digital Forensics
+      ↓
+Intrusion Detection
+      ↓
+Secure Applications
