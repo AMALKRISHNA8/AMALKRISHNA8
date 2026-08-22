@@ -1,5 +1,5 @@
 <div align="center">
-      
+
 # 👋 Hi, I'm **Amal Krishna**
 
 ### 🛡️ Cyber Security Enthusiast &nbsp;•&nbsp; 💻 CSE Student &nbsp;•&nbsp; 🐍 Python Learner
