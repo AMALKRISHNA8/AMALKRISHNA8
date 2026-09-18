@@ -106,13 +106,7 @@ I learn primarily through **building projects, experimenting with security tools
 </div>
 
 ---
-## 🔥 GitHub Streak
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AMALKRISHNA8&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 # 🚀 Projects
 
